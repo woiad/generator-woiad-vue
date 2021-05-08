@@ -1,0 +1,11 @@
+{
+  "name": "generator-woiad-vue",
+  "version": "1.0.0",
+  "description": "my vue generator\t",
+  "main": "index.js",
+  "author": "woiad",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "^5.2.0"
+  }
+}
